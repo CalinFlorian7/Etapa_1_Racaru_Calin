@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Eveniment.h(21,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Eveniment.h(72,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Eveniment.h(85,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Eveniment.h(220,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Eveniment.h(288,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Bilete.h(31,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\Bilete.h(190,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  etapa1_proiect_poo.vcxproj -> C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo\x64\Debug\etapa1_proiect_poo.exe
