@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Eveniment.h(21,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Eveniment.h(72,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Eveniment.h(85,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Eveniment.h(220,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Eveniment.h(288,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Bilete.h(31,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Bilete.h(199,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\Source.cpp(276,8): warning C4101: 'ord_bilet': unreferenced local variable
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\DetaliiEveniment.h(259): warning C4715: 'DetaliiEveniment::extrage_nr_locuri_pe_zona': not all control paths return a value
+C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\DetaliiEveniment.h(213): warning C4715: 'DetaliiEveniment::get_element_din_matrice': not all control paths return a value
+  etapa1_proiect_poo.vcxproj -> C:\Users\LENOVO\Desktop\proiect_poo\etapa1_proiect_poo_Racaru_Calin\x64\Debug\etapa1_proiect_poo.exe
